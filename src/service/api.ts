@@ -30,7 +30,7 @@ export interface Record {
 }
 
 export const api = axios.create({
-  baseURL: "http://35.192.21.137:80", 
+  baseURL: "http://136.112.242.162:80", 
 });
 
 export const getUserCount = (): Promise<AxiosResponse<number>> =>
