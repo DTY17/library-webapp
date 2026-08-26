@@ -1,5 +1,13 @@
 # Library Management System – Frontend
 
+# 👤 Student Information
+
+- **Student Name:** Dinan ThemikA  
+- **Student Number:** 241722003  
+- **Slack Handle:** *(Not provided)*  
+- **GCP Project ID:** graceful-system-415016
+
+  
 A web-based **Library Management System frontend** built with **React, TypeScript, and Axios**. The application provides interfaces for managing users, books, and borrowing/return records through a backend REST API.
 
 Web App URL ::   http://136.112.242.162/dashboard
